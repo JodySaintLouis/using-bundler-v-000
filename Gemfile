@@ -8,7 +8,9 @@ gem "octokit", "~> 2.0"
 
 
  gem "pry", :group => "development"
+end
+
 
  group :test do
    gem "rspec"
-end 
+end
